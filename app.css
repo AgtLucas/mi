@@ -7,4 +7,6 @@ body {
 html {
   font-family: sans-serif;
   font-size: 1rem;
+  background: #666;
+  color: #f3f3f3;
 }
