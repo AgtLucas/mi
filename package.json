@@ -1,0 +1,19 @@
+{
+  "name": "mi",
+  "version": "1.0.0",
+  "description": "Testing some things",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/mi.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/mi/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/mi"
+}
